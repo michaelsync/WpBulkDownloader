@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpBulkFileDownloader", "WpBulkFileDownloader.csproj", "{DCC3E843-4B9D-499D-8C44-4B06E03CCBAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpBulkFileDownloader", "WpBulkFileDownloader\WpBulkFileDownloader.csproj", "{DCC3E843-4B9D-499D-8C44-4B06E03CCBAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordpress.Api", "..\Wordpress.Api\Wordpress.Api.csproj", "{3CEEB085-07DA-4A3E-A0EF-9FE126EFBF56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordpress.Api", "Wordpress.Api\Wordpress.Api.csproj", "{3CEEB085-07DA-4A3E-A0EF-9FE126EFBF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpBulkFileDownloader.Tests", "WpBulkFileDownloader.Tests\WpBulkFileDownloader.Tests.csproj", "{12470C9D-5D58-4A6A-B19D-37A19C5CD7ED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordpress.Api.Tests", "Wordpress.Api.Tests\Wordpress.Api.Tests.csproj", "{8BB9FD6D-030E-45BA-9029-C10AF5478BA3}"
 EndProject
@@ -23,6 +25,10 @@ Global
 		{3CEEB085-07DA-4A3E-A0EF-9FE126EFBF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CEEB085-07DA-4A3E-A0EF-9FE126EFBF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CEEB085-07DA-4A3E-A0EF-9FE126EFBF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12470C9D-5D58-4A6A-B19D-37A19C5CD7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12470C9D-5D58-4A6A-B19D-37A19C5CD7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12470C9D-5D58-4A6A-B19D-37A19C5CD7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12470C9D-5D58-4A6A-B19D-37A19C5CD7ED}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8BB9FD6D-030E-45BA-9029-C10AF5478BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8BB9FD6D-030E-45BA-9029-C10AF5478BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB9FD6D-030E-45BA-9029-C10AF5478BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU

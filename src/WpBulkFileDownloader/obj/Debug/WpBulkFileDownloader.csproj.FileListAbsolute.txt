@@ -1,6 +1,0 @@
-D:\git\WpBulkDownloader\src\WpBulkFileDownloader\bin\Debug\WpBulkFileDownloader.exe.config
-D:\git\WpBulkDownloader\src\WpBulkFileDownloader\bin\Debug\WpBulkFileDownloader.exe
-D:\git\WpBulkDownloader\src\WpBulkFileDownloader\bin\Debug\WpBulkFileDownloader.pdb
-D:\git\WpBulkDownloader\src\WpBulkFileDownloader\obj\Debug\WpBulkFileDownloader.csprojResolveAssemblyReference.cache
-D:\git\WpBulkDownloader\src\WpBulkFileDownloader\obj\Debug\WpBulkFileDownloader.exe
-D:\git\WpBulkDownloader\src\WpBulkFileDownloader\obj\Debug\WpBulkFileDownloader.pdb
